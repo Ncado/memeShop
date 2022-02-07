@@ -1,0 +1,6 @@
+{
+	"port":5000,
+	"baseUrl": "http://localhost:5000",
+	"jwtSecret": "SUPERSECRET",
+	"mongoUri": "mongodb+srv://Ncado:paralaxjs@cluster0.dma5i.mongodb.net/memeGalerey?retryWrites=true&w=majority"
+} 

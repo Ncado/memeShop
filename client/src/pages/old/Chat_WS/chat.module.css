@@ -1,0 +1,34 @@
+
+
+
+
+.messages {
+    margin-left: 1em;
+    list-style: none;
+}
+
+.form {
+    display: flex;
+}
+
+i.nput, .label {
+    display: block;
+}
+
+.input {
+    outline: none;
+    border: none;
+    background-color: black;
+    color: #0F0;
+    padding: 1em .5em;
+    display: block;
+    font-size: 1.5em;
+    font-family: 'Consolas', monospace;
+    flex: 1;
+}
+
+.label {
+    display: block;
+    padding: 1em .5em;
+    font-size: 1.5em;
+}
